@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Amsterdam",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Amsterdam</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/amsterdam/\">Meer over Amsterdam →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/thomas-lamers.jpg\" alt=\"Foto van Thomas Lamers\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Thomas Lamers</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/thomas-lamers/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/sabine-scharwachter.jpg\" alt=\"Foto van Sabine Scharwachter\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Sabine Scharwachter</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/sabine-scharwachter/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/willa-stoutenbeek.jpg\" alt=\"Foto van Willa Stoutenbeek\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Willa Stoutenbeek</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/willa-stoutenbeek/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/yron-van-daalen.jpg\" alt=\"Foto van Yron van Daalen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Yron van Daalen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/yron-van-daalen/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88969,
+          52.37403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Apeldoorn",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Apeldoorn</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/apeldoorn/\">Meer over Apeldoorn →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/sipan-kelani.jpg\" alt=\"Foto van Sipan Kelani\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Sipan Kelani</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/sipan-kelani/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/fatuma-muhumed.jpg\" alt=\"Foto van Fatuma Muhumed\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Fatuma Muhumed</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/fatuma-muhumed/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9694,
+          52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Arnhem",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Arnhem</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/arnhem/\">Meer over Arnhem →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/bram-rasin.jpg\" alt=\"Foto van Bram Rasin\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Bram Rasin</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/bram-rasin/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/paul-smits.jpg\" alt=\"Foto van Paul  Smits\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Paul  Smits</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/paul-smits/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91111,
+          51.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Breda",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Breda</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/breda/\">Meer over Breda →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/nordin-kole.jpg\" alt=\"Foto van Nordin Kole\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Nordin Kole</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/nordin-kole/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77596,
+          51.58656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Delft",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Delft</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/delft/\">Meer over Delft →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/tam-bruggeman.jpg\" alt=\"Foto van Tam Bruggeman\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Tam Bruggeman</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/tam-bruggeman/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/zaare-molenaar.jpg\" alt=\"Foto van Zaare Molenaar\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Zaare Molenaar</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/zaare-molenaar/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/ayla-poots.jpg\" alt=\"Foto van Ayla Poots\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Ayla Poots</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/ayla-poots/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35556,
+          52.00667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Den Haag",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Den Haag</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/den-haag/\">Meer over Den Haag →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/marene-elgershuizen.jpg\" alt=\"Foto van Marene Elgershuizen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Marene Elgershuizen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/marene-elgershuizen/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/fenna-timsi.jpg\" alt=\"Foto van Fenna Timsi\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Fenna Timsi</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/fenna-timsi/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/luuk-voncken.jpg\" alt=\"Foto van Luuk Voncken\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Luuk Voncken</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/luuk-voncken/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/lisa-van-de-voort.jpg\" alt=\"Foto van Lisa van de Voort\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Lisa van de Voort</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/lisa-van-de-voort/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29861,
+          52.07667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Ede",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Ede</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/ede/\">Meer over Ede →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/robin-bongers-karmaoui.jpg\" alt=\"Foto van Robin Bongers-Karmaoui\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Robin Bongers-Karmaoui</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/robin-bongers-karmaoui/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/esther-van-vliet.jpg\" alt=\"Foto van Esther van Vliet\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Esther van Vliet</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/esther-van-vliet/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65833,
+          52.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Eindhoven",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Eindhoven</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/eindhoven/\">Meer over Eindhoven →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/rutger-rauws.jpg\" alt=\"Foto van Rutger Rauws\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Rutger Rauws</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/rutger-rauws/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47778,
+          51.44083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Gouda",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Gouda</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/gouda/\">Meer over Gouda →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/redouan-allaoui.jpg\" alt=\"Foto van Redouan Allaoui\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Redouan Allaoui</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/redouan-allaoui/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70833,
+          52.01667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Haarlem",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Haarlem</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/haarlem/\">Meer over Haarlem →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/lars-van-de-boer.jpg\" alt=\"Foto van Lars  van de Boer\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Lars  van de Boer</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/lars-van-de-boer/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63683,
+          52.38084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Hardenberg",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Hardenberg</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/hardenberg/\">Meer over Hardenberg →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/laura-van-de-scheur.jpg\" alt=\"Foto van Laura van de Scheur\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Laura van de Scheur</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/laura-van-de-scheur/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61944,
+          52.57583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Hengelo",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Hengelo</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/hengelo/\">Meer over Hengelo →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/abby-gomez.jpg\" alt=\"Foto van Abby Gomez\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Abby Gomez</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/abby-gomez/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79306,
+          52.26583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "IJsselstein",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">IJsselstein</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/ijsselstein/\">Meer over IJsselstein →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/sanne-de-bruijne.jpg\" alt=\"Foto van Sanne  de Bruijne\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Sanne  de Bruijne</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/sanne-de-bruijne/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04306,
+          52.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Kampen",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Kampen</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/kampen/\">Meer over Kampen →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/anne-christina-faber.jpg\" alt=\"Foto van Anne Christina Faber\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Anne Christina Faber</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/anne-christina-faber/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91111,
+          52.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Leiden",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Leiden</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/leiden/\">Meer over Leiden →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/abdullah-al-awwadi.jpg\" alt=\"Foto van Abdullah Al-Awwadi\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Abdullah Al-Awwadi</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/abdullah-al-awwadi/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/pieter-matthias-van-der-veen.jpg\" alt=\"Foto van Pieter Matthias van der Veen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Pieter Matthias van der Veen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/pieter-matthias-van-der-veen/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.49701,
+          52.160114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Midden-Groningen",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Midden-Groningen</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/midden-groningen/\">Meer over Midden-Groningen →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/roshano-dewnarain.jpg\" alt=\"Foto van Roshano Dewnarain\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Roshano Dewnarain</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/roshano-dewnarain/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83313,
+          53.15113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Nijmegen",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Nijmegen</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/nijmegen/\">Meer over Nijmegen →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/mika-kraft.jpg\" alt=\"Foto van Mika Kraft\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Mika Kraft</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/mika-kraft/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/quirijn-lokker.jpg\" alt=\"Foto van Quirijn Lokker\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Quirijn Lokker</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/quirijn-lokker/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/louisa-tumiwa.jpg\" alt=\"Foto van Louisa Tumiwa\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Louisa Tumiwa</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/louisa-tumiwa/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/daan-welling.jpg\" alt=\"Foto van Daan Welling\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Daan Welling</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/daan-welling/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85278,
+          51.8425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Oosterhout",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Oosterhout</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/oosterhout/\">Meer over Oosterhout →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/ian-van-vugt.jpg\" alt=\"Foto van Ian van Vugt\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Ian van Vugt</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/ian-van-vugt/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85972,
+          51.645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Rijswijk",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Rijswijk</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/rijswijk/\">Meer over Rijswijk →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/gijs-van-malsen.jpg\" alt=\"Foto van Gijs van Malsen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Gijs van Malsen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/gijs-van-malsen/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.32501,
+          52.03634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Rotterdam",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Rotterdam</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/rotterdam/\">Meer over Rotterdam →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/pieter-boshuizen.jpg\" alt=\"Foto van Pieter Boshuizen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Pieter Boshuizen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/pieter-boshuizen/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/josephine-baan.jpg\" alt=\"Foto van Josephine  Báan\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Josephine  Báan</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/josephine-baan/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/mark-hopman.jpg\" alt=\"Foto van Mark  Hopman\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Mark  Hopman</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/mark-hopman/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47917,
+          51.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Utrecht",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Utrecht</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/utrecht/\">Meer over Utrecht →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/baukje-harmsma.jpg\" alt=\"Foto van Baukje Harmsma\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Baukje Harmsma</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/baukje-harmsma/\">Bekijk profiel</a>\n  </div>\n</article>\n<article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/victor-van-der-have.jpg\" alt=\"Foto van Victor van der Have\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Victor van der Have</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/victor-van-der-have/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12222,
+          52.09083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Venlo",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Venlo</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/venlo/\">Meer over Venlo →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/vincent-knapen.jpg\" alt=\"Foto van Vincent Knapen\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Vincent Knapen</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/vincent-knapen/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16806,
+          51.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "afdeling": "Zwijndrecht",
+        "popup": "<section class=\"lb-popup\">\n  <header class=\"lb-popup__header\">\n    <div class=\"lb-afdeling\">Zwijndrecht</div>\n    <a class=\"lb-afdelinglink\" href=\"/afdelingen/zwijndrecht/\">Meer over Zwijndrecht →</a>\n  </header>\n  <div class=\"lb-cards\">\n    <article class=\"lb-card\">\n  <img class=\"lb-photo\" src=\"/wp-content/uploads/kandidaten/amine-amraoui.jpg\" alt=\"Foto van Amine Amraoui\" loading=\"lazy\"\n       onerror=\"this.onerror=null;this.src='https://placehold.co/96x96/png?text=Foto';\" />\n  <div class=\"lb-meta\">\n    <div class=\"lb-name\">Amine Amraoui</div>\n    <div class=\"lb-snippet\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <a class=\"lb-link\" href=\"/kandidaten/amine-amraoui/\">Bekijk profiel</a>\n  </div>\n</article>\n  </div>\n</section>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63333,
+          51.8175
+        ]
+      }
+    }
+  ]
+}
